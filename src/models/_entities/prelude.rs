@@ -2,5 +2,7 @@
 
 pub use super::articles::Entity as Articles;
 pub use super::comments::Entity as Comments;
+pub use super::movies::Entity as Movies;
 pub use super::notes::Entity as Notes;
 pub use super::users::Entity as Users;
+pub use super::users_votes::Entity as UsersVotes;
